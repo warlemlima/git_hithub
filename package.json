@@ -1,0 +1,11 @@
+{
+  "name": "MODULO01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Warlem Lucio Lima <warlem@winfobh.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.17.1"
+  }
+}
